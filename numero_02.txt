@@ -1,4 +1,4 @@
-NUMEROS NATURALES DEL 1 AL 15
+NUMEROS NATURALES DEL 1 AL 10
 uno
 dos
 tres
@@ -9,8 +9,10 @@ siete
 ocho
 nueve
 diez
-once
-doce
-trece
-catorce
-Quince
+
+NÚMEROS ENTEROS
+-1
+-2
+-3
+-4
+-5

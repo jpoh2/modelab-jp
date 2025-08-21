@@ -1,0 +1,16 @@
+NUMEROS NATURALES DEL 1 AL 15
+uno
+dos
+tres
+cuatro
+cinco 
+seis 
+siete
+ocho
+nueve
+diez
+once
+doce
+trece
+catorce
+Quince

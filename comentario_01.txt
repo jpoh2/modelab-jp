@@ -1,0 +1,16 @@
+REDACTAR 7 COMENTARIOS
+-comentario1
+-comentario2
+-comentario3
+-comentario4
+-comentario5
+-comentario6
+-comentario7
+
+
+==========Nota para Ejemplo con varios enter, Cambié de posición==========
+
+
+
+==========Nota para Ejemplo con varios enter, Cambié de posición2==========
+==========Hacer un cambio para insertar mi primer commit en VSC============
